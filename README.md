@@ -86,7 +86,7 @@ Automates incident postmortem creation by pulling context from **Jira**, **Slack
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=brenopapa&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopapa&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brenopapa&theme=github_dark" height="150" />
 </p>
 
 ---
