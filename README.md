@@ -64,6 +64,15 @@ Lead Data Engineer at **TOTVS**, driving the transition to a governance-first, d
 
 ## Featured Projects
 
+### [spare](https://brenopapa.github.io/spare-site) 🍃
+> *"Block focus time before your calendar fills up."*
+
+Chrome extension that connects to **Google Calendar**, finds free gaps between meetings within your working hours, and lets you protect them as focus blocks — in one click.
+
+`JavaScript` · `Chrome Extension` · `Google Calendar API`
+
+---
+
 ### [postmortem-maker](https://github.com/brenopapa/postmortem-maker)
 > *"PostMortems make devs sad, use this instead."*
 
@@ -76,8 +85,8 @@ Automates incident postmortem creation by pulling context from **Jira**, **Slack
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenopapa&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopapa&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=brenopapa&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopapa&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" height="150" />
 </p>
 
 ---
